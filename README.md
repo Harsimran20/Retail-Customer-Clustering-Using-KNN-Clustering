@@ -48,8 +48,10 @@ Business Expansion: Analyze which segments bring the most revenue and expand ser
 
 Clone the repo:
 git clone project repository
+
 Install dependencies:
 pip install -r requirements.txt
+
 Open the notebook and run:
 jupyter notebook mall_customer_segmentation.ipynb
 
